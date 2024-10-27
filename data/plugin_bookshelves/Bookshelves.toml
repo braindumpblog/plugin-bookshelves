@@ -13,3 +13,11 @@
 # Key = 'currentlyreading'
 # DisplayName = 'Currently Reading'
 # Description = '*Books I am somewhat in the process of reading*'
+[[Registered]]
+Key = 'currentlyreading'
+DisplayName = 'Currently reading'
+
+[[Registered]]
+Key = 'finishedreading'
+DisplayName = 'Finished reading'
+Description = 'These are the books I have read, starting in 2022.'
