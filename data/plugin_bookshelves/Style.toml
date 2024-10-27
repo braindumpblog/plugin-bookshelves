@@ -39,7 +39,7 @@ Bookshelf = ''
 
 # Sass block to apply to the bookshelf display names.
 #
-BookshelfName = ''
+BookshelfName = 'font-size: 2em;'
 
 # Sass block to apply to the bookshelf descriptions.
 #
