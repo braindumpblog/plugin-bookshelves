@@ -32,4 +32,4 @@ EnableViewToggle = true
 # The initial view to display (list or grid).
 # This will be the only view when EnableViewToggle = false.
 #
-InitialView = 'list'
+InitialView = 'grid'
