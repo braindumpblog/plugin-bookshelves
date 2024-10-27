@@ -39,11 +39,11 @@ Bookshelf = ''
 
 # Sass block to apply to the bookshelf display names.
 #
-BookshelfName = 'font-size: 2em;'
+BookshelfName = 'font-size: 1.5em;'
 
 # Sass block to apply to the bookshelf descriptions.
 #
-BookshelfDescription = ''
+BookshelfDescription = 'font-size: 1em;'
 
 # The class name to assign to book wrappers.
 #
