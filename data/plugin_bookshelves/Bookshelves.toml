@@ -28,6 +28,6 @@ DisplayName = 'Finished reading in 2023'
 Description = ''
 
 [[Registered]]
-Key = 'finishedreading'
-DisplayName = 'Finished reading'
-Description = 'These are the books I have read, starting in 2022.'
+Key = 'finishedreadingin2022'
+DisplayName = 'Finished reading in 2022'
+Description = ''
