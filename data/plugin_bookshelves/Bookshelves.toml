@@ -31,3 +31,8 @@ Description = ''
 Key = 'finishedreadingin2022'
 DisplayName = 'Finished reading in 2022'
 Description = ''
+
+[[Registered]]
+Key = 'finishedreadingin2021'
+DisplayName = 'Finished reading in 2021'
+Description = ''
