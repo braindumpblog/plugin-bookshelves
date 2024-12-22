@@ -41,3 +41,8 @@ Description = ''
 Key = 'finishedreadingin2020'
 DisplayName = 'Finished reading in 2020'
 Description = ''
+
+[[Registered]]
+Key = 'finishedreadingin2019'
+DisplayName = 'Finished reading in 2019'
+Description = ''
