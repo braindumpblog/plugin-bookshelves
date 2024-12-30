@@ -51,3 +51,18 @@ Description = ''
 Key = 'finishedreadingin2018'
 DisplayName = 'Finished reading in 2018'
 Description = ''
+
+[[Registered]]
+Key = 'finishedreadingin2017'
+DisplayName = 'Finished reading in 2017'
+Description = ''
+
+[[Registered]]
+Key = 'finishedreadingin2016'
+DisplayName = 'Finished reading in 2016'
+Description = ''
+
+[[Registered]]
+Key = 'finishedreadingin2015'
+DisplayName = 'Finished reading in last few weeks of 2015'
+Description = ''
