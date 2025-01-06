@@ -66,3 +66,8 @@ Description = ''
 Key = 'finishedreadingin2015'
 DisplayName = 'Finished reading in last few weeks of 2015'
 Description = ''
+
+[[Registered]]
+Key = 'want_to_read_dummy'
+DisplayName = 'Want to read'
+Description = 'See this page for the rather lengthy fantasy to-read list'
