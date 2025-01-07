@@ -18,6 +18,11 @@ Key = 'currentlyreading'
 DisplayName = 'Currently reading'
 
 [[Registered]]
+Key = 'want_to_read_dummy'
+DisplayName = 'Want to read'
+Description = '[Click here](https://thebraindumpblog.com/books/books-i-want-to-read/) to see my rather lengthy, totally impossible, want to-read list'
+
+[[Registered]]
 Key = 'finishedreadingin2024'
 DisplayName = 'Finished reading in 2024'
 Description = ''
@@ -66,8 +71,3 @@ Description = ''
 Key = 'finishedreadingin2015'
 DisplayName = 'Finished reading in last few weeks of 2015'
 Description = ''
-
-[[Registered]]
-Key = 'want_to_read_dummy'
-DisplayName = 'Want to read'
-Description = '[CLICK HERE](https://thebraindumpblog.com/books/books-i-want-to-read/) to see my rather lengthy, totally impossible, want to-read list'
