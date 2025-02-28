@@ -23,6 +23,11 @@ DisplayName = 'Want to read'
 Description = '[Click here](https://thebraindumpblog.com/books/books-i-want-to-read/) to see my rather lengthy, totally impossible, want to-read list'
 
 [[Registered]]
+Key = 'finishedreadingin2025'
+DisplayName = 'Finished reading in 2025'
+Description = ''
+
+[[Registered]]
 Key = 'finishedreadingin2024'
 DisplayName = 'Finished reading in 2024'
 Description = ''
